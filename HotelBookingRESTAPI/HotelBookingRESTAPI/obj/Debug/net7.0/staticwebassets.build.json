@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u+ZW7Wni8pHwH1OONgzX9WsqJiEBj7ULxva5rhsGkug=",
+  "Source": "HotelBookingRESTAPI",
+  "BasePath": "_content/HotelBookingRESTAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
